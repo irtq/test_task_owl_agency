@@ -4,4 +4,4 @@ controllers:
 
 test:
     path: /test
-    controller: App\Controller\TestController::test
+    controller: App\Controller\TestController::testTask
